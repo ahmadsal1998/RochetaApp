@@ -1,0 +1,8 @@
+<resources>
+
+<string name="app_name">Login Tutorial </string>
+<string name="facebook_app_id">4701399129951697</string>
+<string name="fb_login_protocol_scheme">fb4701399129951697</string>
+
+
+</resources>

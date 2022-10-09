@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "79793646159",
+    "project_id": "rocheta-6a656",
+    "storage_bucket": "rocheta-6a656.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:79793646159:android:943f8aad4151d5a452183a",
+        "android_client_info": {
+          "package_name": "com.example.flutter_application_1"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "79793646159-acc0du4kpnau5qul62enbqhm64g62hr8.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDZz-aZe2aUjlRu-rQr8zzZEKSCDehRPuA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "79793646159-acc0du4kpnau5qul62enbqhm64g62hr8.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
