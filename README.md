@@ -1,16 +1,30 @@
-# flutter_application_1
+# Rocheta app
 
-A new Flutter project.
+This application addresses the problem of medical reservations, in addition to keeping patient files.
+## Features :
+-Management of medical clinics.
+- Book appointments with the appropriate doctor.
+- Keeping the medical record for each patient.
+- Access to the doctor through the map.
+- Possibility of payment through the application.
 
-## Getting Started
+## Dependencies :
 
-This project is a starting point for a Flutter application.
+-  cloud_firestore
+-  firebase_auth
+-  firebase_core
+-  fluttertoast
+-  provider
+-  google_sign_in
+-  flutter_facebook_auth
+-  flutter_bloc
+-  google_maps_flutter
+-  firebase_storage
+-  firebase_database
+-  flutter_rating_bar
+-  flutter_stripe  
 
-A few resources to get you started if this is your first Flutter project:
+  
+## Some screenshots from the app :
 
-- [Lab: Write your first Flutter app](https://flutter.dev/docs/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://flutter.dev/docs/cookbook)
-
-For help getting started with Flutter, view our
-[online documentation](https://flutter.dev/docs), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+<img src = "https://github.com/ahmadsal1998/RochetaApp/blob/ahmadsal1998-patch-1/rochetaapp.png">
