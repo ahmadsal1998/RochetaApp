@@ -10,20 +10,19 @@ This application addresses the problem of medical reservations, in addition to k
 
 ## Dependencies :
 
-  cloud_firestore
-  firebase_auth
-  firebase_core
-  fluttertoast
-  provider
-  google_sign_in
-  flutter_facebook_auth
-  flutter_bloc
-  google_maps_flutter
-  firebase_storage
-  firebase_database
-  flutter_rating_bar
-  flutter_stripe
-  
+-  cloud_firestore
+-  firebase_auth
+-  firebase_core
+-  fluttertoast
+-  provider
+-  google_sign_in
+-  flutter_facebook_auth
+-  flutter_bloc
+-  google_maps_flutter
+-  firebase_storage
+-  firebase_database
+-  flutter_rating_bar
+-  flutter_stripe  
 
   
 ## Some screenshots from the app :
